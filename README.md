@@ -27,11 +27,4 @@ Primary contributor - Shivangi Agarwal.
 See also the list of [contributors] (https://github.com/ShivangiAgarwal12/Reinforcement-Learning/graphs/contributors) who participated in this project.
 
 ## Reference
-@book{10.5555/3312046,
-author = {Sutton, Richard S. and Barto, Andrew G.},
-title = {Reinforcement Learning: An Introduction},
-year = {2018},
-isbn = {0262039249},
-publisher = {A Bradford Book},
-address = {Cambridge, MA, USA}
-}
+Sutton, Richard S. and Barto, Andrew G., Reinforcement Learning: An Introduction, 2018
