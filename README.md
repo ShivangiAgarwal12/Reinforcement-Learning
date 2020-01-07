@@ -2,7 +2,21 @@
 
 Reinforcement learning for tabular solution and approximate solution methods
 
-![Test Image](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-intro.png)
+![Rl - Introduction](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-intro.png)
+
+![RL - realted to machine learning](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-ML.png)
+
+![RL - Goal directed method](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-GDM.png)
+
+![RL - expoitation and exploration](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-E%26E.png)
+
+![RL - Learning agent](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-LA.png)
+
+![RL - Elements of RL part 1](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-E1.png)
+
+![RL - Elements of RL part 2](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-E2.png)
+
+![RL - Elements of RL part 3](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-E2.png)
 
 ## Getting Started
 Clone or download the repository into your local drive for running the project files.
