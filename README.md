@@ -2,6 +2,8 @@
 
 Reinforcement learning for tabular solution and approximate solution methods
 
+![Test Image](https://github.com/ShivangiAgarwal12/Reinforcement-Learning/blob/master/Multi%20armed%20bandits/Readme-images/RL-intro.png)
+
 ## Getting Started
 Clone or download the repository into your local drive for running the project files.
 
