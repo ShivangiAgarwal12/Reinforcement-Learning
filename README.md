@@ -37,8 +37,7 @@ Once the repository has been cloned. Just open the jupyter notebook and run eith
 Reinforcement learning is primarily about finding the value function and the policy which is optimal for a given environment. Based on the tutorial the desired environment can be created and only the policy can be deployed on real-world devices. 
 
 ## Authors
-
-Primary contributor - Shivangi Agarwal.
+Contributors - Shivangi Agarwal and Sandeep Banik.
 
 See also the list of [contributors] (https://github.com/ShivangiAgarwal12/Reinforcement-Learning/graphs/contributors) who participated in this project.
 
